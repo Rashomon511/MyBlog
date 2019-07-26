@@ -32,7 +32,7 @@
  * [前端必懂的HTTP缓存机制](https://github.com/LuoShengMen/MyBlog/issues/37)
  * [你得搞明白的浏览器的运行机制](https://github.com/LuoShengMen/MyBlog/issues/40)
  
-## React
+## 前端框架
  * [一篇即可了解react16前后的生命周期](https://github.com/LuoShengMen/MyBlog/issues/13)
  * [ref和DOM操作](https://github.com/LuoShengMen/MyBlog/issues/14)
  * [react的BatchUpdate](https://github.com/LuoShengMen/MyBlog/issues/27)
