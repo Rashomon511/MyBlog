@@ -1,4 +1,7 @@
  ## 书单 
+ 
+ > 不是爱书即欲死，任从人笑作书颠
+ 
   - [x] JavaScript高级程序设计
   - [x] 你不知道的javascript
   - [ ] javascript忍者秘籍
