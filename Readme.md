@@ -84,3 +84,8 @@
 * [优秀程序员的演进](https://github.com/LuoShengMen/MyBlog/issues/46)
 
 ———— 待续
+
+ ### 微信公众号
+ #### 学习中分享，分享中学习
+ 
+ ![](/images/qrcode_for_gh_49e7ce78cb69_344.jpg)
