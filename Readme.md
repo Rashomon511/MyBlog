@@ -28,6 +28,7 @@
 ## Typescript
 * [TypeScript入门—类型二三事(一)](https://github.com/LuoShengMen/MyBlog/issues/47)
 * [TypeScript入门—类型二三事(二)](https://github.com/LuoShengMen/MyBlog/issues/48)
+* [TypeScript入门—类型二三事(三)](https://github.com/LuoShengMen/MyBlog/issues/49)
 
 ## Css
 
