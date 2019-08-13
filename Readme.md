@@ -27,7 +27,7 @@
 * [TypeScript入门—类型二三事(二)](https://github.com/LuoShengMen/MyBlog/issues/48)
 * [TypeScript入门—类型二三事(三)](https://github.com/LuoShengMen/MyBlog/issues/49)
 * [Typescript入门——接口与类](https://github.com/LuoShengMen/MyBlog/issues/50)
-- [Typescript文件模块知多少](https://github.com/LuoShengMen/MyBlog/issues/51)
+* [Typescript文件模块知多少](https://github.com/LuoShengMen/MyBlog/issues/51)
 
 ## Css
 
