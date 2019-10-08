@@ -1,0 +1,14 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "d": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1"
+  }
+}
