@@ -17,9 +17,8 @@ module.exports = {
       { text: '计算机网络', link: '/network/' },
       { text: '前端算法', link: '/algorithm/' },
       { text: '源码释界', link: '/sourceCode/' },
-      { text: '设计模式', link: '/designMode/' },
-      { text: '前端译界', link: '/translation/' },
-      { text: '学习笔记', link: '/readRecord/' },
+      // { text: '前端译界', link: '/translation/' },
+      { text: '学习笔记', link: '/learnRecord/' },
       { text: '前端面试', link: '/interviewQuestions/' },
       { text: '每周阅读', link: '/weekRead/' },
       { text: 'GitHub',link: 'https://github.com/Rashomon511'},
@@ -120,7 +119,9 @@ module.exports = {
           },
 
         ],
-        '/algorithm/': [],
+        '/algorithm/': [
+          '/algorithm/数据结构与算法简介'
+        ],
         '/designMode/': [],
         '/sourceCode/': [
           {
@@ -151,65 +152,59 @@ module.exports = {
             ]
           }
         ],
-        '/readRecord/': [
-          {
-            title: 'Javascript高级程序设计',
-            children: [
-              '/readRecord/高程/javascript继承方式',
-              '/readRecord/高程/javascript创建对象方式',
-            ]
-          },
-          {
-            title: '你所不知道的Javascript',
-            children: [
-              '/readRecord/你不知道的js/你不知道的js上',
-              '/readRecord/你不知道的js/你不知道的js中',
-              '/readRecord/你不知道的js/你不知道的js下',
-            ]
-          },
+        '/learnRecord/': [
           {
             title: 'webpack',
             children: [
-              '/readRecord/webpack/webpack4学习笔记一',
-              '/readRecord/webpack/webpack4学习笔记二',
-              '/readRecord/webpack/webpack4学习笔记三',
-              '/readRecord/webpack/webpack4学习笔记四',
-              '/readRecord/webpack/webpack4学习笔记五',
-              '/readRecord/webpack/webpack4学习笔记六',
-              '/readRecord/webpack/webpack4学习笔记七',
-              '/readRecord/webpack/webpack4学习笔记八',
-              '/readRecord/webpack/webpack4学习笔记九',
+              '/learnRecord/webpack/webpack4学习笔记一',
+              '/learnRecord/webpack/webpack4学习笔记二',
+              '/learnRecord/webpack/webpack4学习笔记三',
+              '/learnRecord/webpack/webpack4学习笔记四',
+              '/learnRecord/webpack/webpack4学习笔记五',
+              '/learnRecord/webpack/webpack4学习笔记六',
+              '/learnRecord/webpack/webpack4学习笔记七',
+              '/learnRecord/webpack/webpack4学习笔记八',
+              '/learnRecord/webpack/webpack4学习笔记九',
             ]
           },
           {
             title: '正则表达式迷你书',
             children: [
-              '/readRecord/正则小书/正则表达式学习总结一',
-              '/readRecord/正则小书/正则表达式学习总结二',
-              '/readRecord/正则小书/正则表达式学习总结三',
-              '/readRecord/正则小书/正则表达式学习总结四',
+              '/learnRecord/正则小书/正则表达式学习总结一',
+              '/learnRecord/正则小书/正则表达式学习总结二',
+              '/learnRecord/正则小书/正则表达式学习总结三',
+              '/learnRecord/正则小书/正则表达式学习总结四',
             ]
           },
-        ],
-        '/interviewQuestions/': [
           {
-            title: '前端知识体系',
+            title: '你所不知道的Javascript',
             children: [
-              '/interviewQuestions/Javascript',
-              '/interviewQuestions/Javascript手写',
-              '/interviewQuestions/Css',
-              '/interviewQuestions/Html',
-              '/interviewQuestions/浏览器相关',
-              '/interviewQuestions/计算机网络',
-              '/interviewQuestions/前端框架',
-              '/interviewQuestions/前端工程',
-              '/interviewQuestions/安全与性能',
-              '/interviewQuestions/Node',
-              '/interviewQuestions/版本控制',
-              '/interviewQuestions/测试相关',
+              '/learnRecord/你不知道的js/你不知道的js上',
+              '/learnRecord/你不知道的js/你不知道的js中',
+              '/learnRecord/你不知道的js/你不知道的js下',
+            ]
+          },
+          {
+            title: 'Javascript高级程序设计',
+            children: [
+              '/learnRecord/高程/javascript继承方式',
+              '/learnRecord/高程/javascript创建对象方式',
             ]
           }
-
+        ],
+        '/interviewQuestions/': [
+          '/interviewQuestions/Javascript',
+          '/interviewQuestions/Javascript手写',
+          '/interviewQuestions/Css',
+          '/interviewQuestions/Html',
+          '/interviewQuestions/浏览器相关',
+          '/interviewQuestions/计算机网络',
+          '/interviewQuestions/前端框架',
+          '/interviewQuestions/前端工程',
+          '/interviewQuestions/安全与性能',
+          '/interviewQuestions/Node',
+          '/interviewQuestions/版本控制',
+          '/interviewQuestions/测试相关',
         ]
     }
   }
