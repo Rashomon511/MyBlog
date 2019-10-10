@@ -1,5 +1,8 @@
- #  Blog #
+ ![](/images/qrcode_for_gh_49e7ce78cb69_344.jpg)
  
+ <div align="center">
+  <img src="/images/logo.jpeg">
+</div>
  > 乾坤未定，诸事可为
 
 用于记录学习过程中的笔记，以及自己产出的文章，便于梳理前端知识架构以形成自己的前端知识体系。包括但不限于javascript、typescript、css、http、webpack、react、计算机网络、数据流、正则表达式、数据结构算法、设计模式等内容
@@ -7,7 +10,8 @@
 ## 书单
 * [阅读书籍](https://github.com/LuoShengMen/MyBlog/blob/master/booklist/Readme.md)
   
-## Javascript
+<details>
+  <summary>Javascript</summary>
  * [javascript继承方式](https://github.com/LuoShengMen/MyBlog/issues/2)
  * [javascript创建对象方式](https://github.com/LuoShengMen/MyBlog/issues/3)
  * [es6类的继承与对象关联](https://github.com/LuoShengMen/MyBlog/issues/10)
@@ -23,6 +27,7 @@
  * [三种视频流浏览器播放解决方案](https://github.com/LuoShengMen/MyBlog/issues/54)
  * [如何理解服务端渲染？](https://github.com/LuoShengMen/MyBlog/issues/55)
  * [Typescript+Ant-Design + Redux+Next.js搭建服务端渲染框架](https://github.com/LuoShengMen/MyBlog/issues/56)
+ </details>
 
  
 ## Typescript
@@ -91,9 +96,8 @@
 - [高效学习 & 程序员练级攻略](https://www.yuque.com/fe9/basic/qvoo0d)
 * [优秀程序员的演进](https://github.com/LuoShengMen/MyBlog/issues/46)
 
-———— 待续
 
 ### 交流
 欢迎关注我的微信公众号，微信扫下面二维码或搜索“无畏前端” ，学习中分享，分享中学习！希望与您一同进步
  
- ![](/images/qrcode_for_gh_49e7ce78cb69_344.jpg)
+ ![](/images/banner.png)
