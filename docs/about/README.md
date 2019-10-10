@@ -13,11 +13,9 @@
 
 - [GitHub](https://github.com/Rashomon511)
 
-- [语雀](https://www.yuque.com/rashomon)
+- [个人站点](codehao.com)
 
 #### 联系方式
-
-微信: whwhk88
 
 邮箱：rashomon511@gmail.com
 

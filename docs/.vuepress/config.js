@@ -120,7 +120,85 @@ module.exports = {
 
         ],
         '/algorithm/': [
-          '/algorithm/数据结构与算法简介'
+          '/algorithm/数据结构与算法简介',
+          {
+            title: '字符串',
+            children: [
+              '/algorithm/字符串/反转字符串中的单词 III',
+            ]
+          },
+          {
+            title: '数组',
+            children: []
+          },
+          {
+            title: '正则',
+            children: []
+          },
+          {
+            title: '数学',
+            children: []
+          },
+          {
+            title: '栈',
+            children: []
+          },
+          {
+            title: '队列',
+            children: []
+          },
+          {
+            title: '堆',
+            children: []
+          },
+          {
+            title: '图',
+            children: []
+          },
+          {
+            title: '链表',
+            children: []
+          },
+          {
+            title: '二叉树',
+            children: []
+          },
+          {
+            title: '排序',
+            children: []
+          },
+          {
+            title: '递归',
+            children: []
+          },
+          {
+            title: '二分查找',
+            children: []
+          },
+          {
+            title: '搜索',
+            children: []
+          },
+          {
+            title: '哈希算法',
+            children: []
+          },
+          {
+            title: '贪心算法',
+            children: []
+          },
+          {
+            title: '分治算法',
+            children: []
+          },
+          {
+            title: '回溯算法',
+            children: []
+          },
+          {
+            title: '动态规划',
+            children: []
+          },
         ],
         '/designMode/': [],
         '/sourceCode/': [
