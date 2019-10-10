@@ -1,17 +1,13 @@
- ![](/images/qrcode_for_gh_49e7ce78cb69_344.jpg)
- 
- <div align="center">
-  <img src="/images/logo.jpeg">
-</div>
+
  > 乾坤未定，诸事可为
 
 用于记录学习过程中的笔记，以及自己产出的文章，便于梳理前端知识架构以形成自己的前端知识体系。包括但不限于javascript、typescript、css、http、webpack、react、计算机网络、数据流、正则表达式、数据结构算法、设计模式等内容
+> 觉得有帮助的或者喜欢的可以点下star或watch
 
 ## 书单
 * [阅读书籍](https://github.com/LuoShengMen/MyBlog/blob/master/booklist/Readme.md)
   
-<details>
-  <summary>Javascript</summary>
+## Javascript
 
  * [javascript继承方式](https://github.com/LuoShengMen/MyBlog/issues/2)
  * [javascript创建对象方式](https://github.com/LuoShengMen/MyBlog/issues/3)
@@ -28,8 +24,7 @@
  * [三种视频流浏览器播放解决方案](https://github.com/LuoShengMen/MyBlog/issues/54)
  * [如何理解服务端渲染？](https://github.com/LuoShengMen/MyBlog/issues/55)
  * [Typescript+Ant-Design + Redux+Next.js搭建服务端渲染框架](https://github.com/LuoShengMen/MyBlog/issues/56)
- 
- </details>
+
 
  
 ## Typescript

@@ -4,7 +4,7 @@
 用于记录学习过程中的笔记，以及自己产出的文章心得，便于梳理前端知识架构以形成自己的前端知识体系
 :::
 ## Javascript
-- [如何理解服务端渲染?](/article/Javascript/如何理解服务端渲染)
+- [如何理解服务端渲染?](/article/Javascript/如何理解服务端渲染.md)
 - [AMD-CMD-COMMONJS浅析](/article/Javascript/AMD-CMD-COMMONJS浅析)
 - [从头手写一个Promise](/article/Javascript/从头手写一个Promise)
 - [函数柯里化](/article/Javascript/函数柯里化)
