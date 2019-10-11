@@ -16,6 +16,7 @@
 - [全面了解 React Suspense 和 Hooks](https://mp.weixin.qq.com/s/XRBX1dRKltJgIzG2dK-wYw)
 - [用 Service Worker 实现前端性能优化](https://mp.weixin.qq.com/s/SLG_cDxDo7BaoQqAyLGa-Q)
 - [【长文慎入】一文吃透 React SSR 服务端渲染和同构原理](https://juejin.im/post/5d7deef6e51d453bb13b66cd#heading-27)
+- [[长文预警] 一文掌握React 渲染原理及性能优化](https://mp.weixin.qq.com/s/lX58E12AMhaT3UuMI5E0mA)
 
 ### 2019年9月第四周
 - [漫画：什么是中台？](https://mp.weixin.qq.com/s/thpQFQdLrih1pinDhFFBMw)
