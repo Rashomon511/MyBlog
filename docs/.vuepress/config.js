@@ -141,7 +141,9 @@ module.exports = {
           },
           {
             title: '数学',
-            children: []
+            children: [
+              '/algorithm/数学/回文数',
+            ]
           },
           {
             title: '栈',
