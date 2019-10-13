@@ -46,6 +46,7 @@ module.exports = {
             title: 'CSS',
             children: [
               '/article/CSS/图片实现滤境对三种方式',
+              '/article/CSS/26个常用易忘CSS小技巧'
             ]
           },
           {
