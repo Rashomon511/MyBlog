@@ -126,7 +126,6 @@ module.exports = {
             children: [
               '/algorithm/字符串/反转字符串中的单词 III',
               '/algorithm/字符串/计数二进制子串',
-              '/algorithm/字符串/整数反转',
             ]
           },
           {
@@ -142,6 +141,7 @@ module.exports = {
           {
             title: '数学',
             children: [
+              '/algorithm/数学/整数反转',
               '/algorithm/数学/回文数',
             ]
           },
