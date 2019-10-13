@@ -17,6 +17,8 @@
 - [用 Service Worker 实现前端性能优化](https://mp.weixin.qq.com/s/SLG_cDxDo7BaoQqAyLGa-Q)
 - [【长文慎入】一文吃透 React SSR 服务端渲染和同构原理](https://juejin.im/post/5d7deef6e51d453bb13b66cd#heading-27)
 - [[长文预警] 一文掌握React 渲染原理及性能优化](https://mp.weixin.qq.com/s/lX58E12AMhaT3UuMI5E0mA)
+- [学习 React Hooks 可能会遇到的五个灵魂问题](https://mp.weixin.qq.com/s/Cw7gB57N6gpyK3d80RY52Q)
+- [5分钟搭一个企业级脚手架](https://juejin.im/post/5d650613f265da03951a0364)
 
 ### 2019年9月第四周
 - [漫画：什么是中台？](https://mp.weixin.qq.com/s/thpQFQdLrih1pinDhFFBMw)
