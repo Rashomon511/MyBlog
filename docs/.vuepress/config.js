@@ -46,7 +46,7 @@ module.exports = {
             title: 'CSS',
             children: [
               '/article/CSS/图片实现滤境对三种方式',
-              '/article/CSS/26个常用易忘CSS小技巧'
+              '/article/CSS/26个常用易忘的css小技巧'
             ]
           },
           {
@@ -127,6 +127,7 @@ module.exports = {
             children: [
               '/algorithm/字符串/反转字符串中的单词 III',
               '/algorithm/字符串/计数二进制子串',
+              '/algorithm/字符串/有效的括号',
             ]
           },
           {
@@ -144,6 +145,7 @@ module.exports = {
             children: [
               '/algorithm/数学/整数反转',
               '/algorithm/数学/回文数',
+              '/algorithm/数学/罗马转数字',
             ]
           },
           {
@@ -164,7 +166,9 @@ module.exports = {
           },
           {
             title: '链表',
-            children: []
+            children: [
+              '/algorithm/链表/合并两个有序链表',
+            ]
           },
           {
             title: '二叉树',
