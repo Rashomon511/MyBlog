@@ -7,6 +7,13 @@
 - [待阅读文章](https://juejin.im/post/5d42f4f46fb9a06adb7fc2a1)
 
 ### 2019年10月第三周
+- [深入浅出 Babel 上篇：架构和原理 + 实战](https://juejin.im/post/5d94bfbf5188256db95589be)
+- [深入浅出 Babel 下篇：既生 Plugin 何生 Macros](https://juejin.im/post/5da12397e51d4578364f6ffa)
+- [非常全面的前端开发协作规范](https://mp.weixin.qq.com/s/Qqr5NYe9xvHRmaPeDKBhfA)
+- [短网址(short URL)系统如何实现？](https://mp.weixin.qq.com/s/rHpRWdUusr2Jm9E5Ag0oig)
+- [前端灰度发布知多少？](https://mp.weixin.qq.com/s/LOxUjv3XjUpPRF_bmYXQ9A)
+- [发布订阅模式，在工作中它的能量超乎你的想象](https://mp.weixin.qq.com/s/UyXArTEQcEVoJBwWVVcAxg)
+- [JavaScript 工具函数大全（新）](https://juejin.im/post/5da1a04ae51d45783d6122bf#comment)
 
 
 ### 2019年10月第二周

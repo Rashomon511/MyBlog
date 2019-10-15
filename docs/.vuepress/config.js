@@ -134,6 +134,8 @@ module.exports = {
             title: '数组',
             children: [
               '/algorithm/数组/两数之和',
+              '/algorithm/数组/删除排序数组中的重复项',
+              '/algorithm/数组/移除元素',
             ]
           },
           {
