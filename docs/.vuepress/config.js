@@ -128,6 +128,10 @@ module.exports = {
               '/algorithm/字符串/反转字符串中的单词 III',
               '/algorithm/字符串/计数二进制子串',
               '/algorithm/字符串/有效的括号',
+              '/algorithm/字符串/实现strStr',
+              '/algorithm/字符串/报数',
+              '/algorithm/字符串/最后一个单词的长度',
+              '/algorithm/字符串/最长公共前缀',
             ]
           },
           {
@@ -136,6 +140,9 @@ module.exports = {
               '/algorithm/数组/两数之和',
               '/algorithm/数组/删除排序数组中的重复项',
               '/algorithm/数组/移除元素',
+              '/algorithm/数组/加一',
+              '/algorithm/数组/搜索插入位置',
+              '/algorithm/数组/最大子序和',
             ]
           },
           {
@@ -193,6 +200,12 @@ module.exports = {
             children: []
           },
           {
+            title: '动态规划',
+            children: [
+              '/algorithm/动态规划/爬楼梯',
+            ]
+          },
+          {
             title: '哈希算法',
             children: []
           },
@@ -206,10 +219,6 @@ module.exports = {
           },
           {
             title: '回溯算法',
-            children: []
-          },
-          {
-            title: '动态规划',
             children: []
           },
         ],
