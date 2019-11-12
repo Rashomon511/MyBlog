@@ -15,15 +15,11 @@
  * [你不知道的类型转换](https://github.com/LuoShengMen/MyBlog/issues/1)
  * [一篇搞定this指向](https://github.com/LuoShengMen/MyBlog/issues/8)
  * [call,apply,bind以及实现方式](https://github.com/LuoShengMen/MyBlog/issues/9)
- * [Proxy 与 Object.defineProperty的对比](https://github.com/LuoShengMen/MyBlog/issues/11)
- * [用Proxy/Object.defineProperty实现双向绑定](https://github.com/LuoShengMen/MyBlog/issues/12)
  * [AMD、CMD、CommonJS浅析](https://github.com/LuoShengMen/MyBlog/issues/41)
  * [函数柯里化](https://github.com/LuoShengMen/MyBlog/issues/42)
  * [从头手写一个Promise](https://github.com/LuoShengMen/MyBlog/issues/38)
  * [彻底搞清楚Event Loop](https://github.com/LuoShengMen/MyBlog/issues/39)
  * [三种视频流浏览器播放解决方案](https://github.com/LuoShengMen/MyBlog/issues/54)
- * [如何理解服务端渲染？](https://github.com/LuoShengMen/MyBlog/issues/55)
- * [Typescript+Ant-Design + Redux+Next.js搭建服务端渲染框架](https://github.com/LuoShengMen/MyBlog/issues/56)
 
 
  
@@ -54,8 +50,6 @@
 * [端数据流管理方案之四——Vuex](https://github.com/LuoShengMen/MyBlog/issues/18)
 * [redux源码分析(一)](https://github.com/LuoShengMen/MyBlog/issues/19)
 * [redux源码分析(二)](https://github.com/LuoShengMen/MyBlog/issues/20)
-* [redux-saga源码分析(一)](https://github.com/LuoShengMen/MyBlog/issues/21)
-* [redux-saga源码分析(二)](https://github.com/LuoShengMen/MyBlog/issues/22)
 
 ## 前端工程化
 * [webpack4学习笔记(一)](https://github.com/LuoShengMen/MyBlog/issues/28)
