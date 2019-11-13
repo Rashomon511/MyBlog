@@ -46,8 +46,6 @@
 ## 前端数据流
 * [前端数据流管理方案之一——Redux](https://github.com/LuoShengMen/MyBlog/issues/15)
 * [前端数据流管理方案之二——Dva](https://github.com/LuoShengMen/MyBlog/issues/16)
-* [前端数据流管理方案之三——mbox](https://github.com/LuoShengMen/MyBlog/issues/17)
-* [端数据流管理方案之四——Vuex](https://github.com/LuoShengMen/MyBlog/issues/18)
 * [redux源码分析(一)](https://github.com/LuoShengMen/MyBlog/issues/19)
 * [redux源码分析(二)](https://github.com/LuoShengMen/MyBlog/issues/20)
 
