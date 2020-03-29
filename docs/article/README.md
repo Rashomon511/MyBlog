@@ -4,14 +4,11 @@
 用于记录学习过程中的笔记，以及自己产出的文章心得，便于梳理前端知识架构以形成自己的前端知识体系
 :::
 ## Javascript
-- [如何理解服务端渲染?](/article/Javascript/如何理解服务端渲染.md)
 - [AMD-CMD-COMMONJS浅析](/article/Javascript/AMD-CMD-COMMONJS浅析)
 - [从头手写一个Promise](/article/Javascript/从头手写一个Promise)
 - [函数柯里化](/article/Javascript/函数柯里化)
 - [call,apply,bind以及实现方式](/article/Javascript/call,apply,bind以及实现方式)
 - [this的用法](/article/Javascript/this)
-- [使用Proxy/Object.defineProperty实现双向绑定](/article/Javascript/Object.defineProperty实现双向绑定)
-- [Proxy-与-Object-defineProperty的对比](/article/Javascript/Proxy-与-Object-defineProperty的对比)
 - [你不知道的类型转换](/article/Javascript/你不知道的类型转换)
 - [关于数组扁平化](/article/Javascript/关于数组扁平化)
 
@@ -20,7 +17,6 @@
 - [图片实现滤境的三种方式']('/article/CSS/图片实现滤境对三种方式')
 
 ## 前端框架
-- [Typescript+Ant-Design + Redux+Next.js搭建服务端渲染框架](/article/React/Next服务端渲染框架)
 - [React性能优化的8种方式了解一下？](/article/React/React性能优化的8种方式了解一下？)
 - [Hooks模拟生命周期](/article/React/Hooks模拟生命周期)
 - [一文即可了解react前后生命周期](/article/React/react生命周期)
@@ -36,8 +32,6 @@
 ## 数据流
 
 - [前端数据流管理方案之一-redux](/article/数据流/前端数据流管理方案之一)
-- [前端数据流管理方案之二-mobx](/article/数据流/前端数据流管理方案之二)
-- [前端数据流管理方案之三-vux](/article/数据流/前端数据流管理方案之三)
 - [前端数据流管理方案之四-dva](/article/数据流/前端数据流管理方案之四)
 
 
@@ -51,7 +45,6 @@
 
 - [webpack热更新原理](/article/Webpack/webpack热更新)
 - [利用webpack搭建脚手架一套完整流程](/article/Webpack/利用webpack搭建脚手架一套完整流程)
-- [手撸loader和plugin全解析](/article/Webpack/手撸loader和plugin全解析)
 
 ## Typescript
 

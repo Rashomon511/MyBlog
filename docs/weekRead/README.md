@@ -7,6 +7,7 @@
 - [待阅读文章](https://juejin.im/post/5d42f4f46fb9a06adb7fc2a1)
 
 ### 2019年10月第三周
+- [解读HTTP/2与HTTP/3 的新特性](https://mp.weixin.qq.com/s/NMse-CrCnkZJPrIaR18NJw)
 - [深入浅出 Babel 上篇：架构和原理 + 实战](https://juejin.im/post/5d94bfbf5188256db95589be)
 - [深入浅出 Babel 下篇：既生 Plugin 何生 Macros](https://juejin.im/post/5da12397e51d4578364f6ffa)
 - [非常全面的前端开发协作规范](https://mp.weixin.qq.com/s/Qqr5NYe9xvHRmaPeDKBhfA)

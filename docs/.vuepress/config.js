@@ -1,5 +1,5 @@
 module.exports = {
-  title: '无畏前端路', 
+  title: '无畏前端路-魑魅魍魉', 
   description: '乾坤未定,诸事可为',
   head: [
     ['link', { rel: 'icon', href: '/logo.jpeg'}]
@@ -17,7 +17,7 @@ module.exports = {
       { text: '计算机网络', link: '/network/' },
       { text: '前端算法', link: '/algorithm/' },
       { text: '源码释界', link: '/sourceCode/' },
-      // { text: '前端译界', link: '/translation/' },
+      { text: '前端译界', link: '/translation/' },
       { text: '学习笔记', link: '/learnRecord/' },
       { text: '前端面试', link: '/interviewQuestions/' },
       { text: '每周阅读', link: '/weekRead/' },
@@ -143,6 +143,7 @@ module.exports = {
               '/algorithm/数组/加一',
               '/algorithm/数组/搜索插入位置',
               '/algorithm/数组/最大子序和',
+              '/algorithm/数组/合并两个有序数组',
             ]
           },
           {

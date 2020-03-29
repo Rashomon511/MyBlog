@@ -10,6 +10,5 @@
 
 - [redux源码分析(一))](/sourceCode/redux/redux源码分析一)
 - [redux源码分析(二)](/sourceCode/redux/redux源码分析二)
-- [redux-saga源码分析(一)](/sourceCode/Saga/redux-saga源码分析一)
-- [redux-saga源码分析(二)](/sourceCode/Saga/redux-saga源码分析二)
+
 
