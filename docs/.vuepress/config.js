@@ -1,6 +1,6 @@
 module.exports = {
-  title: "无畏前端",
-  description: "乾坤未定,诸事可为",
+  title: "二求",
+  description: "求真、求知",
   head: [["link", { rel: "icon", href: "/logo.jpeg" }]],
   markdown: {
     lineNumbers: true,
