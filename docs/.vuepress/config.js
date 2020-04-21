@@ -133,6 +133,7 @@ module.exports = {
         {
           title: "数组",
           children: [
+            "/algorithm/数组/三个数最大乘积",
             "/algorithm/数组/第三大数",
             "/algorithm/数组/移动零",
             "/algorithm/数组/找到所有数组中消失的数字",
