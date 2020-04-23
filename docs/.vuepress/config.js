@@ -122,6 +122,8 @@ module.exports = {
           title: "字符串",
           children: [
             "/algorithm/字符串/反转字符串中的单词 III",
+            "/algorithm/字符串/反转字符串 II",
+            "/algorithm/字符串/反转字符串",
             "/algorithm/字符串/计数二进制子串",
             "/algorithm/字符串/有效的括号",
             "/algorithm/字符串/实现strStr",
@@ -133,6 +135,9 @@ module.exports = {
         {
           title: "数组",
           children: [
+            "/algorithm/数组/数组中的K-diff数对",
+            "/algorithm/数组/子数组最大平均数",
+            "/algorithm/数组/最大连续1的个数",
             "/algorithm/数组/三个数最大乘积",
             "/algorithm/数组/第三大数",
             "/algorithm/数组/移动零",
@@ -176,7 +181,11 @@ module.exports = {
         },
         {
           title: "链表",
-          children: ["/algorithm/链表/合并两个有序链表"],
+          children: [
+            "/algorithm/链表/移除链表元素",
+            "/algorithm/链表/删除链表中的节点",
+            "/algorithm/链表/合并两个有序链表",
+          ],
         },
         {
           title: "二叉树",
