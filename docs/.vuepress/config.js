@@ -135,6 +135,8 @@ module.exports = {
         {
           title: "数组",
           children: [
+            "/algorithm/数组/找不同",
+            "/algorithm/数组/缺失数字",
             "/algorithm/数组/数组中的K-diff数对",
             "/algorithm/数组/子数组最大平均数 ",
             "/algorithm/数组/最大连续1的个数",
@@ -182,6 +184,7 @@ module.exports = {
         {
           title: "链表",
           children: [
+            "/algorithm/链表/有序链表转换二叉搜索树",
             "/algorithm/链表/反转链表II",
             "/algorithm/链表/反转链表",
             "/algorithm/链表/回文链表",
@@ -192,7 +195,10 @@ module.exports = {
         },
         {
           title: "二叉树",
-          children: [],
+          children: [
+            "/algorithm/二叉树/将有序数组转换为二叉搜索树",
+            "/algorithm/二叉树/二叉树的最大深度",
+          ],
         },
         {
           title: "排序",
@@ -216,7 +222,7 @@ module.exports = {
         },
         {
           title: "哈希算法",
-          children: [],
+          children: ["/algorithm/哈希算法/只出现一次的数字"],
         },
         {
           title: "贪心算法",
