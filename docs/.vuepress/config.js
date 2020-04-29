@@ -217,12 +217,23 @@ module.exports = {
           children: [],
         },
         {
+          title: "位运算",
+          children: [
+            "/algorithm/位运算/只出现一次的数字III",
+            "/algorithm/位运算/只出现一次的数字 II",
+            "/algorithm/位运算/只出现一次的数字",
+          ],
+        },
+        {
           title: "动态规划",
           children: ["/algorithm/动态规划/爬楼梯"],
         },
         {
           title: "哈希算法",
-          children: ["/algorithm/哈希算法/只出现一次的数字"],
+          children: [
+            "/algorithm/哈希算法/错误集合",
+            "/algorithm/哈希算法/寻找重复数",
+          ],
         },
         {
           title: "贪心算法",
