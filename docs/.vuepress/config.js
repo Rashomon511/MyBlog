@@ -135,6 +135,11 @@ module.exports = {
         {
           title: "数组",
           children: [
+            "/algorithm/数组/求众数 II",
+            "/algorithm/数组/多数元素",
+            "/algorithm/数组/Fizz Buzz",
+            "/algorithm/数组/杨辉三角 II",
+            "/algorithm/数组/杨辉三角",
             "/algorithm/数组/找不同",
             "/algorithm/数组/缺失数字",
             "/algorithm/数组/数组中的K-diff数对",
@@ -160,6 +165,9 @@ module.exports = {
         {
           title: "数学",
           children: [
+            "/algorithm/数学/位1的个数",
+            "/algorithm/数学/Excel表列名称",
+            "/algorithm/数学/Excel表列序号",
             "/algorithm/数学/整数反转",
             "/algorithm/数学/回文数",
             "/algorithm/数学/罗马转数字",
@@ -231,7 +239,7 @@ module.exports = {
         {
           title: "哈希算法",
           children: [
-            "/algorithm/哈希算法/错误集合",
+            "/algorithm/哈希算法/错误的集合",
             "/algorithm/哈希算法/寻找重复数",
           ],
         },
