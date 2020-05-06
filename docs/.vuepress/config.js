@@ -165,6 +165,9 @@ module.exports = {
         {
           title: "数学",
           children: [
+            "/algorithm/数学/丑数",
+            "/algorithm/数学/各位相加",
+            "/algorithm/数学/快乐数",
             "/algorithm/数学/位1的个数",
             "/algorithm/数学/Excel表列名称",
             "/algorithm/数学/Excel表列序号",
@@ -192,6 +195,8 @@ module.exports = {
         {
           title: "链表",
           children: [
+            "/algorithm/链表/环形链表II",
+            "/algorithm/链表/环形链表",
             "/algorithm/链表/有序链表转换二叉搜索树",
             "/algorithm/链表/反转链表II",
             "/algorithm/链表/反转链表",
