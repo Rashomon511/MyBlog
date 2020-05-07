@@ -239,11 +239,18 @@ module.exports = {
         },
         {
           title: "动态规划",
-          children: ["/algorithm/动态规划/爬楼梯"],
+          children: [
+            "/algorithm/动态规划/买卖股票的最佳时机 III",
+            "/algorithm/动态规划/买卖股票的最佳时机II",
+            "/algorithm/动态规划/买卖股票的最佳时机",
+            "/algorithm/动态规划/爬楼梯",
+          ],
         },
         {
           title: "哈希算法",
           children: [
+            "/algorithm/哈希算法/字母异位词分组",
+            "/algorithm/哈希算法/有效的字母异位词",
             "/algorithm/哈希算法/错误的集合",
             "/algorithm/哈希算法/寻找重复数",
           ],
