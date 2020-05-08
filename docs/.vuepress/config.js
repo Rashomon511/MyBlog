@@ -240,6 +240,9 @@ module.exports = {
         {
           title: "动态规划",
           children: [
+            "/algorithm/动态规划/买卖股票的最佳时机含手续费",
+            "/algorithm/动态规划/最佳买卖股票时机含冷冻期",
+            "/algorithm/动态规划/买卖股票的最佳时机 IV",
             "/algorithm/动态规划/买卖股票的最佳时机 III",
             "/algorithm/动态规划/买卖股票的最佳时机II",
             "/algorithm/动态规划/买卖股票的最佳时机",
