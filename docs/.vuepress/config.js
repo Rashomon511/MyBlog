@@ -195,6 +195,7 @@ module.exports = {
         {
           title: "链表",
           children: [
+            "/algorithm/链表/相交链表",
             "/algorithm/链表/环形链表II",
             "/algorithm/链表/环形链表",
             "/algorithm/链表/有序链表转换二叉搜索树",
