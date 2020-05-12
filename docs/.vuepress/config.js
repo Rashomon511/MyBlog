@@ -253,6 +253,9 @@ module.exports = {
         {
           title: "哈希算法",
           children: [
+            "/algorithm/哈希算法/存在重复元素 III",
+            "/algorithm/哈希算法/存在重复元素 II",
+            "/algorithm/哈希算法/存在重复元素",
             "/algorithm/哈希算法/字母异位词分组",
             "/algorithm/哈希算法/有效的字母异位词",
             "/algorithm/哈希算法/错误的集合",
