@@ -178,7 +178,7 @@ module.exports = {
         },
         {
           title: "栈",
-          children: [],
+          children: ["/algorithm/栈/最小栈"],
         },
         {
           title: "队列",
