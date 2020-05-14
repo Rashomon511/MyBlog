@@ -178,7 +178,7 @@ module.exports = {
         },
         {
           title: "栈",
-          children: ["/algorithm/栈/最小栈"],
+          children: ["/algorithm/栈/最小栈", "/algorithm/栈/滑动窗口最大值"],
         },
         {
           title: "队列",
@@ -253,6 +253,7 @@ module.exports = {
         {
           title: "哈希算法",
           children: [
+            "/algorithm/哈希算法/两个数组的交集 II",
             "/algorithm/哈希算法/存在重复元素 III",
             "/algorithm/哈希算法/存在重复元素 II",
             "/algorithm/哈希算法/存在重复元素",
