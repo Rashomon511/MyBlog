@@ -210,6 +210,7 @@ module.exports = {
         {
           title: "二叉树",
           children: [
+            "/algorithm/二叉树/对称二叉树",
             "/algorithm/二叉树/将有序数组转换为二叉搜索树",
             "/algorithm/二叉树/二叉树的最大深度",
           ],
