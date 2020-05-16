@@ -165,6 +165,9 @@ module.exports = {
         {
           title: "数学",
           children: [
+            "/algorithm/数学/4的幂",
+            "/algorithm/数学/3的幂",
+            "/algorithm/数学/2的幂",
             "/algorithm/数学/丑数",
             "/algorithm/数学/各位相加",
             "/algorithm/数学/快乐数",
