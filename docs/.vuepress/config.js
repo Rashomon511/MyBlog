@@ -245,6 +245,7 @@ module.exports = {
         {
           title: "动态规划",
           children: [
+            "/algorithm/动态规划/打家劫舍",
             "/algorithm/动态规划/买卖股票的最佳时机含手续费",
             "/algorithm/动态规划/最佳买卖股票时机含冷冻期",
             "/algorithm/动态规划/买卖股票的最佳时机 IV",
@@ -257,6 +258,8 @@ module.exports = {
         {
           title: "哈希算法",
           children: [
+            "/algorithm/哈希算法/根据字符出现频率排序",
+            "/algorithm/哈希算法/字符串中的第一个唯一字符",
             "/algorithm/哈希算法/两个数组的交集 II",
             "/algorithm/哈希算法/存在重复元素 III",
             "/algorithm/哈希算法/存在重复元素 II",
