@@ -245,6 +245,9 @@ module.exports = {
         {
           title: "动态规划",
           children: [
+            "/algorithm/动态规划/乘积最大子数组",
+            "/algorithm/动态规划/打家劫舍 III",
+            "/algorithm/动态规划/打家劫舍 II",
             "/algorithm/动态规划/打家劫舍",
             "/algorithm/动态规划/买卖股票的最佳时机含手续费",
             "/algorithm/动态规划/最佳买卖股票时机含冷冻期",
