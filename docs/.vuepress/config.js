@@ -121,6 +121,8 @@ module.exports = {
         {
           title: "字符串",
           children: [
+            "/algorithm/字符串/验证回文字符串 Ⅱ",
+            "/algorithm/字符串/验证回文串",
             "/algorithm/字符串/反转字符串中的单词 III",
             "/algorithm/字符串/反转字符串 II",
             "/algorithm/字符串/反转字符串",
@@ -135,6 +137,8 @@ module.exports = {
         {
           title: "数组",
           children: [
+            "/algorithm/数组/均分数组",
+            "/algorithm/数组/旋转数组",
             "/algorithm/数组/求众数 II",
             "/algorithm/数组/多数元素",
             "/algorithm/数组/Fizz Buzz",
@@ -159,12 +163,9 @@ module.exports = {
           ],
         },
         {
-          title: "正则",
-          children: [],
-        },
-        {
           title: "数学",
           children: [
+            "/algorithm/数学/阶乘后的零",
             "/algorithm/数学/4的幂",
             "/algorithm/数学/3的幂",
             "/algorithm/数学/2的幂",
@@ -198,6 +199,7 @@ module.exports = {
         {
           title: "链表",
           children: [
+            "/algorithm/链表/旋转链表",
             "/algorithm/链表/相交链表",
             "/algorithm/链表/环形链表II",
             "/algorithm/链表/环形链表",
@@ -224,7 +226,7 @@ module.exports = {
         },
         {
           title: "递归",
-          children: [],
+          children: ["/algorithm/递归/斐波那契"],
         },
         {
           title: "二分查找",
