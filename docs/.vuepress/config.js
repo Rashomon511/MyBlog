@@ -165,6 +165,7 @@ module.exports = {
         {
           title: "数学",
           children: [
+            "/algorithm/数学/计算质数",
             "/algorithm/数学/阶乘后的零",
             "/algorithm/数学/4的幂",
             "/algorithm/数学/3的幂",
@@ -230,7 +231,7 @@ module.exports = {
         },
         {
           title: "二分查找",
-          children: [],
+          children: ["/algorithm/二分查找/x 的平方根"],
         },
         {
           title: "搜索",
@@ -285,7 +286,7 @@ module.exports = {
         },
         {
           title: "回溯算法",
-          children: [],
+          children: ["/algorithm/回溯算法/全排列"],
         },
       ],
       "/designMode/": [],
