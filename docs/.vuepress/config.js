@@ -286,7 +286,11 @@ module.exports = {
         },
         {
           title: "回溯算法",
-          children: ["/algorithm/回溯算法/全排列"],
+          children: [
+            "/algorithm/回溯算法/括号生成",
+            "/algorithm/回溯算法/子集",
+            "/algorithm/回溯算法/全排列",
+          ],
         },
       ],
       "/designMode/": [],
