@@ -137,6 +137,9 @@ module.exports = {
         {
           title: "数组",
           children: [
+            "/algorithm/数组/除自身以外数组的乘积",
+            "/algorithm/数组/旋转图像",
+            "/algorithm/数组/生命游戏",
             "/algorithm/数组/均分数组",
             "/algorithm/数组/旋转数组",
             "/algorithm/数组/求众数 II",
@@ -216,6 +219,10 @@ module.exports = {
         {
           title: "二叉树",
           children: [
+            "/algorithm/二叉树/二叉搜索树中第 K 小的元素",
+            "/algorithm/二叉树/二叉树的后序遍历",
+            "/algorithm/二叉树/二叉树的中序遍历",
+            "/algorithm/二叉树/二叉树的前序遍历",
             "/algorithm/二叉树/对称二叉树",
             "/algorithm/二叉树/将有序数组转换为二叉搜索树",
             "/algorithm/二叉树/二叉树的最大深度",
