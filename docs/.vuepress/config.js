@@ -219,10 +219,12 @@ module.exports = {
         {
           title: "二叉树",
           children: [
-            "/algorithm/二叉树/二叉搜索树中第 K 小的元素",
-            "/algorithm/二叉树/二叉树的后序遍历",
-            "/algorithm/二叉树/二叉树的中序遍历",
-            "/algorithm/二叉树/二叉树的前序遍历",
+            "/algorithm/二叉树/从中序与后序遍历序列构造二叉树",
+            "/algorithm/二叉树/从前序与中序遍历序列构造二叉树",
+            // "/algorithm/二叉树/二叉搜索树中第 K 小的元素",
+            // "/algorithm/二叉树/二叉树的后序遍历",
+            // "/algorithm/二叉树/二叉树的中序遍历",
+            // "/algorithm/二叉树/二叉树的前序遍历",
             "/algorithm/二叉树/对称二叉树",
             "/algorithm/二叉树/将有序数组转换为二叉搜索树",
             "/algorithm/二叉树/二叉树的最大深度",
@@ -294,6 +296,7 @@ module.exports = {
         {
           title: "回溯算法",
           children: [
+            "/algorithm/回溯算法/分割回文串",
             "/algorithm/回溯算法/括号生成",
             "/algorithm/回溯算法/子集",
             "/algorithm/回溯算法/全排列",
