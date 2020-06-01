@@ -137,6 +137,7 @@ module.exports = {
         {
           title: "数组",
           children: [
+            "/algorithm/数组/数组中的第 K 个最大元素",
             "/algorithm/数组/除自身以外数组的乘积",
             "/algorithm/数组/旋转图像",
             "/algorithm/数组/生命游戏",
@@ -194,7 +195,7 @@ module.exports = {
         },
         {
           title: "堆",
-          children: [],
+          children: ["/algorithm/堆/扁平化嵌套列表迭代器"],
         },
         {
           title: "图",
@@ -219,6 +220,7 @@ module.exports = {
         {
           title: "二叉树",
           children: [
+            "/algorithm/二叉树/二叉树的层序遍历",
             "/algorithm/二叉树/从中序与后序遍历序列构造二叉树",
             "/algorithm/二叉树/从前序与中序遍历序列构造二叉树",
             // "/algorithm/二叉树/二叉搜索树中第 K 小的元素",
@@ -273,6 +275,7 @@ module.exports = {
         {
           title: "哈希算法",
           children: [
+            "/algorithm/哈希算法/前 K 个高频元素",
             "/algorithm/哈希算法/根据字符出现频率排序",
             "/algorithm/哈希算法/字符串中的第一个唯一字符",
             "/algorithm/哈希算法/两个数组的交集 II",
