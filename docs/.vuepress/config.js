@@ -137,7 +137,8 @@ module.exports = {
         {
           title: "数组",
           children: [
-            "/algorithm/数组/数组中的第 K 个最大元素",
+            "/algorithm/数组/矩阵置零",
+            "/algorithm/数组/颜色分类",
             "/algorithm/数组/除自身以外数组的乘积",
             "/algorithm/数组/旋转图像",
             "/algorithm/数组/生命游戏",
@@ -187,7 +188,11 @@ module.exports = {
         },
         {
           title: "栈",
-          children: ["/algorithm/栈/最小栈", "/algorithm/栈/滑动窗口最大值"],
+          children: [
+            "/algorithm/栈/扁平化嵌套列表迭代器",
+            "/algorithm/栈/最小栈",
+            "/algorithm/栈/滑动窗口最大值",
+          ],
         },
         {
           title: "队列",
@@ -195,7 +200,7 @@ module.exports = {
         },
         {
           title: "堆",
-          children: ["/algorithm/堆/扁平化嵌套列表迭代器"],
+          children: ["/algorithm/堆/数组中的第K个最大元素"],
         },
         {
           title: "图",
@@ -223,10 +228,10 @@ module.exports = {
             "/algorithm/二叉树/二叉树的层序遍历",
             "/algorithm/二叉树/从中序与后序遍历序列构造二叉树",
             "/algorithm/二叉树/从前序与中序遍历序列构造二叉树",
-            // "/algorithm/二叉树/二叉搜索树中第 K 小的元素",
-            // "/algorithm/二叉树/二叉树的后序遍历",
-            // "/algorithm/二叉树/二叉树的中序遍历",
-            // "/algorithm/二叉树/二叉树的前序遍历",
+            "/algorithm/二叉树/二叉搜索树中第K小的元素",
+            "/algorithm/二叉树/二叉树的后序遍历",
+            "/algorithm/二叉树/二叉树的中序遍历",
+            "/algorithm/二叉树/二叉树的前序遍历",
             "/algorithm/二叉树/对称二叉树",
             "/algorithm/二叉树/将有序数组转换为二叉搜索树",
             "/algorithm/二叉树/二叉树的最大深度",
@@ -259,6 +264,8 @@ module.exports = {
         {
           title: "动态规划",
           children: [
+            "/algorithm/动态规划/不同路径",
+            "/algorithm/动态规划/完全平方数",
             "/algorithm/动态规划/乘积最大子数组",
             "/algorithm/动态规划/打家劫舍 III",
             "/algorithm/动态规划/打家劫舍 II",
@@ -275,6 +282,8 @@ module.exports = {
         {
           title: "哈希算法",
           children: [
+            "/algorithm/哈希算法/有效的数独",
+            "/algorithm/哈希算法/四数相加 II",
             "/algorithm/哈希算法/前 K 个高频元素",
             "/algorithm/哈希算法/根据字符出现频率排序",
             "/algorithm/哈希算法/字符串中的第一个唯一字符",
