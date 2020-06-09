@@ -137,6 +137,7 @@ module.exports = {
         {
           title: "数组",
           children: [
+            "/algorithm/数组/打乱数组",
             "/algorithm/数组/矩阵置零",
             "/algorithm/数组/颜色分类",
             "/algorithm/数组/除自身以外数组的乘积",
@@ -299,7 +300,7 @@ module.exports = {
         },
         {
           title: "贪心算法",
-          children: [],
+          children: ["/algorithm/贪心算法/加油站"],
         },
         {
           title: "分治算法",
@@ -308,6 +309,7 @@ module.exports = {
         {
           title: "回溯算法",
           children: [
+            "/algorithm/回溯算法/电话号码的字母组合",
             "/algorithm/回溯算法/分割回文串",
             "/algorithm/回溯算法/括号生成",
             "/algorithm/回溯算法/子集",
