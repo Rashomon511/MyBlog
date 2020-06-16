@@ -210,6 +210,8 @@ module.exports = {
         {
           title: "链表",
           children: [
+            "/algorithm/链表/删除链表的倒数第N个节点",
+            "/algorithm/链表/链表的中间结点",
             "/algorithm/链表/旋转链表",
             "/algorithm/链表/相交链表",
             "/algorithm/链表/环形链表II",
