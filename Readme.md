@@ -86,7 +86,7 @@
 * [优秀程序员的演进](https://github.com/LuoShengMen/MyBlog/issues/46)
 
 
-### 交流
+<!-- ### 交流
 欢迎关注我的微信公众号「无畏前端」，学习中分享，分享中学习！希望与您一同进步
  
- ![](/images/banner.png)
+ ![](/images/banner.png) -->
