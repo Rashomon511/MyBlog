@@ -2,7 +2,7 @@
  > 乾坤未定，诸事可为
 
 用于记录学习过程中的笔记，以及自己产出的文章，便于梳理前端知识架构以形成自己的前端知识体系。包括但不限于javascript、typescript、css、http、webpack、react、计算机网络、数据流、正则表达式、数据结构算法、设计模式等内容
-> 觉得有帮助的或者喜欢的可以点下star或watch,线上地址观看更顺畅：https://codehao.com/
+> 觉得有帮助的或者喜欢的可以点下star或watch
 
 ## 书单
 * [阅读书籍](https://github.com/LuoShengMen/MyBlog/blob/master/booklist/Readme.md)
